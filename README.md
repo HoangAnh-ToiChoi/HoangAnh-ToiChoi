@@ -38,13 +38,6 @@
 - **Công nghệ:** React · Node.js · Express
 - 🔗 **Demo:** [whos-free-one.vercel.app](https://whos-free-one.vercel.app/auth/login)
 
-## 📊 Thống kê GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HoangAnh-ToiChoi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangAnh-ToiChoi&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>Cảm ơn bạn đã ghé thăm! Rất sẵn lòng trao đổi về các cơ hội thực tập và hợp tác.</i></p>
