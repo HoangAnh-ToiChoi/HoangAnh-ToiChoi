@@ -2,12 +2,14 @@
 <p align="center">
   Sinh viên năm 4 Kỹ thuật Phần mềm – Trường Đại học Công nghệ Thông tin · Định hướng <b>Fullstack Web Developer</b>
 </p>
+<p align="center">
+  📫 hoanganh281205@gmail.com · 📞 0945 405 200
+</p>
 
 ---
 
 ## 🙋 Giới thiệu
 
-- 🎓 Sinh viên năm 4 chuyên ngành **Kỹ thuật Phần mềm**, Trường Đại học Công nghệ Thông tin.
 - 💻 Phát triển ứng dụng web Fullstack với **React** ở phía giao diện và **Node.js / Express** ở phía máy chủ.
 - 🧩 Có kinh nghiệm tham gia trọn vẹn một dự án từ thiết kế cơ sở dữ liệu, xây dựng API đến hoàn thiện giao diện.
 - 👥 Thường đảm nhận vai trò **Team Lead** trong các dự án nhóm: lập kế hoạch, thiết kế kiến trúc hệ thống và review code cho thành viên.
@@ -25,9 +27,14 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
+**Cơ sở dữ liệu**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+
 **Công cụ & Triển khai**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img height="48" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
 ## 🚀 Dự án tiêu biểu
 
