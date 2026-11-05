@@ -3,7 +3,7 @@
   Sinh viên năm 4 Kỹ thuật Phần mềm – Trường Đại học Công nghệ Thông tin · Định hướng <b>Fullstack Web Developer</b>
 </p>
 <p align="center">
-  📫 hoanganh281205@gmail.com · 📞 0945 405 200
+  📫 <a href="mailto:hoanganh281205@gmail.com">hoanganh281205@gmail.com</a> · 📞 0945 405 200
 </p>
 
 ---
