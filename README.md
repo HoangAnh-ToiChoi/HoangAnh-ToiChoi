@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào, mình là Hoàng Anh 👋</h1>
 <p align="center">
-  Sinh viên năm 4 Kỹ thuật Phần mềm – Trường Đại học Công nghệ Thông tin · Định hướng <b>Fullstack Web Developer</b>
+  Sinh viên năm 4 Kỹ thuật Phần mềm – Trường Đại học Công nghệ Thành Phố Hồ Chí Minh · Định hướng <b>Fullstack Web Developer</b>
 </p>
 <p align="center">
   📫 <a href="mailto:hoanganh281205@gmail.com">hoanganh281205@gmail.com</a> · 📞 0945 405 200
