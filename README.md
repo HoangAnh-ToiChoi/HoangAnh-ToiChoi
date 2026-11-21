@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hoang Anh 👋</h1>
 <p align="center">
-  Final-year Software Engineering student at <b>HUTECH University</b> (Ho Chi Minh City) · Aspiring <b>Fullstack Web Developer</b>
+  Final-year Software Engineering student at <b>Ho Chi Minh City University of Technology (HUTECH)</b> · Aspiring <b>Fullstack Web Developer</b>
 </p>
 <p align="center">
   📫 <a href="mailto:hoanganh281205@gmail.com">hoanganh281205@gmail.com</a> · 📞 (+84) 945 405 200
