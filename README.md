@@ -12,7 +12,7 @@
 
 - 💻 I build fullstack web apps with **React** on the frontend and **Node.js / Express** on the backend.
 - 🧩 I have taken a project end to end: **system design**, **database design**, **REST API development**, and the user interface.
-- 👥 I often act as **Team Lead** in group projects — planning tasks and **reviewing teammates' code** to keep quality consistent.
+- 👥 I often act as **Team Lead** in group projects — planning tasks and checking teammates' pull requests before merging, so the code follows the structure we agreed on.
 - 🚀 I deploy my personal projects so that real users can use them.
 - 📜 Currently completing the **Fullstack Web Development** program at **F8**.
 - 🎯 Looking for a **Fullstack / Frontend Developer Internship**.
