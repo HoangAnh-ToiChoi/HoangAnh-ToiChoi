@@ -1,21 +1,21 @@
-<h1 align="center">Xin chào, mình là Hoàng Anh 👋</h1>
+<h1 align="center">Hi, I'm Hoang Anh 👋</h1>
 <p align="center">
-  Sinh viên năm 4 Kỹ thuật Phần mềm – Trường Đại học Công nghệ Thành Phố Hồ Chí Minh · Định hướng <b>Fullstack Web Developer</b>
+  Final-year Software Engineering student at <b>HUTECH University</b> (Ho Chi Minh City) · Aspiring <b>Fullstack Web Developer</b>
 </p>
 <p align="center">
-  📫 <a href="mailto:hoanganh281205@gmail.com">hoanganh281205@gmail.com</a> · 📞 0945 405 200
+  📫 <a href="mailto:hoanganh281205@gmail.com">hoanganh281205@gmail.com</a> · 📞 (+84) 945 405 200
 </p>
 
 ---
 
-## 🙋 Giới thiệu
+## 🙋 About Me
 
-- 💻 Phát triển ứng dụng web Fullstack với **React** ở phía giao diện và **Node.js / Express** ở phía máy chủ.
-- 🧩 Có kinh nghiệm tham gia trọn vẹn một dự án từ thiết kế cơ sở dữ liệu, xây dựng API đến hoàn thiện giao diện.
-- 👥 Thường đảm nhận vai trò **Team Lead** trong các dự án nhóm: lập kế hoạch, thiết kế kiến trúc hệ thống và review code cho thành viên.
-- 🚀 Chủ động triển khai (deploy) các dự án cá nhân để người dùng thật có thể sử dụng.
-- 📜 Đang hoàn thiện chương trình **Fullstack Web Development tại F8**.
-- 🎯 Đang tìm kiếm vị trí **Thực tập sinh Fullstack / Frontend Developer**.
+- 💻 I build fullstack web apps with **React** on the frontend and **Node.js / Express** on the backend.
+- 🧩 I have taken a project end to end: database design, REST API development, and the user interface.
+- 👥 I often act as **Team Lead** in group projects — planning tasks, designing the system architecture, and reviewing teammates' code.
+- 🚀 I deploy my personal projects so that real users can use them.
+- 📜 Currently completing the **Fullstack Web Development** program at **F8**.
+- 🎯 Looking for a **Fullstack / Frontend Developer Internship**.
 
 ## 🛠️ Tech Stack
 
@@ -27,24 +27,38 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Cơ sở dữ liệu**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
-**Công cụ & Triển khai**
+**Tools & Deployment**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 <img height="48" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
-## 🚀 Dự án tiêu biểu
+## 🤖 AI-Assisted Workflow
 
-### 📅 [Who's Free](https://github.com/HoangAnh-ToiChoi/Who-s-Free) — Ứng dụng tổng hợp lịch rảnh
+I use AI tools to work faster, but I still read, test, and understand every change before it ships.
 
-> Hệ thống giúp câu lạc bộ sinh viên thu thập và tổng hợp lịch rảnh của thành viên, từ đó sắp xếp lịch họp và hoạt động nhanh chóng. Dự án đang được câu lạc bộ sử dụng thực tế.
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-- **Công nghệ:** React · Node.js · Express
-- 🔗 **Demo:** [whos-free-one.vercel.app](https://whos-free-one.vercel.app/auth/login)
+- **Coding:** Claude Code and Antigravity help me scaffold features, refactor, and debug.
+- **Code review:** Codex and Claude act as a second reviewer on pull requests to catch bugs and edge cases early.
+- **Deployment:** AI agents help me set up and troubleshoot deployments on Vercel and Render.
+
+## 🚀 Featured Project
+
+### 📅 [Who's Free](https://github.com/HoangAnh-ToiChoi/Who-s-Free) — Availability Scheduling App
+
+> A web app that helps student clubs collect members' free time and combine it into one view, making it quick to schedule meetings and activities. **It is currently used by a real student club.**
+
+- **Tech:** React · Node.js · Express
+- 🔗 **Live demo:** [whos-free-one.vercel.app](https://whos-free-one.vercel.app/auth/login)
 
 ---
 
-<p align="center"><i>Cảm ơn bạn đã ghé thăm! Rất sẵn lòng trao đổi về các cơ hội thực tập và hợp tác.</i></p>
+<p align="center"><i>Thanks for stopping by! I'm always happy to talk about internship opportunities and collaboration.</i></p>
